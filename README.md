@@ -55,7 +55,7 @@ The King's Escape is an interactive chess puzzle where players must navigate the
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/kings-escape.git
+   git clone https://github.com/Khalipha-Samela/Kings-Escape.git
    cd kings-escape
 
 2. **Database Setup**
@@ -83,7 +83,13 @@ Place the project in your server’s htdocs/ or www/ folder:
 ## 🚀 Live Demo
 
 🔗 **Live Version:** [http://kingsescape.atwebpages.com/]  
-🔗 **View the project here:** [https://github.com/yourusername/kings-escape]
+🔗 **View the project here:** [https://github.com/Khalipha-Samela/Kings-Escape.git]
+
+---
+
+## 📱 Preview
+
+![game](image.png)
 
 ---
 

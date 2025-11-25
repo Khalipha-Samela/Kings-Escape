@@ -89,7 +89,7 @@ Place the project in your server’s htdocs/ or www/ folder:
 
 ## 📱 Preview
 
-![game](image.png)
+![alt text](image.png)
 
 ---
 
